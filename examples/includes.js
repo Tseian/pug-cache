@@ -22,9 +22,9 @@ let options = {
     ],
   userData: { products: [1, 2, 4] }
 }
-console.log(pug.render(str, options, function (s, output) {
-  console.log(output)
-}))
+// console.log(pug.render(str, options, function (s, output) {
+//   console.log(output)
+// }))
 var fn = pug.compile(str, options);
 console.log(fn({ products: [1, 2, 4] }));
 console.timeEnd("l")
