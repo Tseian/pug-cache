@@ -5,9 +5,9 @@ Full documentation is at [pugjs.org](https://pugjs.org/)
 ## load src of template that included or extended from cache
 example 
 
-[examples/includes.js](https://github.com/Tseian/pug/blob/master/packages/pug/examples/includes.js) 
+[examples/includes.js](https://github.com/Tseian/pug-cache/examples/includes.js) 
 
-[examples/includes.pug](https://github.com/Tseian/pug/blob/master/packages/pug/examples/includes.pug)
+[examples/includes.pug](https://github.com/Tseian/pug-cache/examples/includes.pug)
 ```js
 
 /**
