@@ -30,7 +30,7 @@
     "pug-filters": "^3.1.0",
     "pug-lexer": "^4.0.0",
     "pug-linker": "^3.0.5",
-    "pug-load-cache": "^2.0.16",
+    "pug-load-cache": "^2.0.17",
     "pug-parser": "^5.0.0",
     "pug-runtime": "^2.0.4",
     "pug-strip-comments": "^1.0.3"
